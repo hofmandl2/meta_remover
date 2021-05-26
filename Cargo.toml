@@ -1,0 +1,10 @@
+[package]
+name = "meta_remover"
+version = "0.1.0"
+authors = ["Daniel Hofmann"]
+edition = "2018"
+
+[dependencies]
+img-parts = "0.2.3"
+png = "0.16.8"
+zip = { version = "0.5.12", default-features = false, features = ["deflate"] }
