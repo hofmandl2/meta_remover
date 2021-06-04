@@ -25,6 +25,7 @@ or `/usr/local/bin`.
 
 ## Integration into nautilus
 
-If you have installed `nautilus-scripts` then you can copy the file `nautilus/Remove Image Metadata`
-to `~/.local/share/nautilus/scripts` and should have a handy right-click menu entry available to
-invoke the script on files.
+Simply copy the file `nautilus/Remove Image Metadata`
+to the folder `~/.local/share/nautilus/scripts`, make sure it is executable
+and you should have a handy right-click menu entry available to
+invoke the script on a file or a selection of files.
